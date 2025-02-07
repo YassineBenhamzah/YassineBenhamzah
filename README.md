@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinebenhamzah&show_icons=true&locale=en&layout=compact" alt="yassinebenhamzah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassinebenhamzah&show_icons=true&locale=en" alt="yassinebenhamzah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinebenhamzah&" alt="yassinebenhamzah" /></p>
