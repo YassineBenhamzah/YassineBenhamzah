@@ -1,18 +1,86 @@
 <h1 align="center">Hi 👋, I'm Yassine Benhamzah</h1>
-<h3 align="center">💻 Full-Stack Web Developer | Laravel & Javascript Expert</h3>
+<h3 align="center">
+🚀 Full-Stack Web Developer | Laravel • React 
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinebenhamzah&label=Profile%20views&color=0e75b6&style=flat" alt="yassinebenhamzah" /> </p>
-
-- 📫 How to reach me **yassine.benhamzah00@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yassine-benhamzah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yassine-benhamzah/" height="30" width="70" /></a>
+<p align="center">
+I’m a passionate Full-Stack Web Developer with solid experience in building scalable web applications, 
+clean APIs, and modern dashboards. I specialize in Laravel for backend development and Vue.js for rich, 
+interactive frontends.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="70" height="70"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="70" height="70"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/p/20/postman.svg" alt="php" width="70" height="70"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/p/79/php.svg" alt="postman" width="70" height="70"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="70" height="70"/> </a> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="70" height="70"/> </a> </p>
+<p align="center">
+📍 Morocco • 💼 Open to Remote & On-site Opportunities
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinebenhamzah&show_icons=true&locale=en&layout=compact" alt="yassinebenhamzah" /></p>
+<p align="center">
+📫 <b>Email:</b> yassine.benhamzah00@gmail.com
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinebenhamzah&" alt="yassinebenhamzah" /></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/yassine-benhamzah/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 💻 Full-Stack Web Developer (Laravel, Vue.js, JavaScript)
+- 🏗️ Experience in **SaaS platforms**, **dashboards**, and **management systems**
+- 🔐 Strong understanding of authentication, roles & permissions
+- 📊 Worked with charts, analytics & real-time data
+- 🛠️ Clean code, REST APIs, MVC architecture
+- 🌱 Currently learning **DevOps & Docker**
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/laravel.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+</p>
+
+---
+
+### 📌 Featured Skills
+
+- Laravel (REST APIs, Auth, Middleware, Queues)
+- Vue.js 3 (Composition API, Components, Axios)
+- Blade, Bootstrap 5, Tailwind basics
+- MySQL Database Design & Optimization
+- Git, GitHub, Docker
+- Clean UI Dashboards & Admin Panels
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinebenhamzah&layout=compact"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinebenhamzah"/>
+</p>
+
+---
+
+### 🤝 Let’s Work Together
+
+💼 Looking for:
+- Full-Stack Developer roles
+- Laravel / Vue.js projects
+- Remote or On-site opportunities
+
+📩 Feel free to reach out via email or LinkedIn!
