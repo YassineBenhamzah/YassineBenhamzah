@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yassine Benhamzah</h1>
 <h3 align="center">
-🚀 Full-Stack Web Developer | Laravel • React 
+🚀 Full-Stack Web Developer | Laravel • React.js • Next.js
 </h3>
 
 <p align="center">
-I’m a passionate Full-Stack Web Developer with solid experience in building scalable web applications, 
-clean APIs, and modern dashboards. I specialize in Laravel for backend development and Vue.js for rich, 
-interactive frontends.
+Full-Stack Web Developer with 2+ years of experience building scalable and high-performance web applications.
+Strong expertise in Laravel/PHP backend development and React.js / Next.js frontend frameworks.
 </p>
 
 <p align="center">
-📍 Morocco • 💼 Open to Remote & On-site Opportunities
+📍 Casablanca, Morocco • 💼 Open to Remote & On-site Opportunities
 </p>
 
 <p align="center">
@@ -27,12 +26,12 @@ interactive frontends.
 
 ### 🧠 About Me
 
-- 💻 Full-Stack Web Developer (Laravel, Vue.js, JavaScript)
-- 🏗️ Experience in **SaaS platforms**, **dashboards**, and **management systems**
-- 🔐 Strong understanding of authentication, roles & permissions
-- 📊 Worked with charts, analytics & real-time data
-- 🛠️ Clean code, REST APIs, MVC architecture
-- 🌱 Currently learning **DevOps & Docker**
+- 💻 Full-Stack Web Developer (Laravel & React.js)
+- ⚡ Experience with **Next.js**, **TailwindCSS**, and modern frontend tooling
+- 🔐 Authentication systems with roles & permissions
+- 📊 Admin dashboards & business platforms
+- 🛠️ REST APIs, database optimization & clean architecture
+- 🚀 CI/CD pipelines and deployment with GitHub Actions & Vercel
 
 ---
 
@@ -40,27 +39,37 @@ interactive frontends.
 
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/laravel.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 </p>
 
 ---
 
-### 📌 Featured Skills
+### 📌 Core Skills
 
-- Laravel (REST APIs, Auth, Middleware, Queues)
-- Vue.js 3 (Composition API, Components, Axios)
-- Blade, Bootstrap 5, Tailwind basics
-- MySQL Database Design & Optimization
-- Git, GitHub, Docker
-- Clean UI Dashboards & Admin Panels
+- Laravel (REST APIs, Auth, Middleware, MVC)
+- React.js & Next.js (Hooks, SSR, Routing)
+- TailwindCSS, Bootstrap 5
+- MySQL, PostgreSQL, Supabase, MongoDB
+- Git, GitHub, GitHub Actions (CI/CD)
+- Clean UI dashboards & scalable backend systems
+
+---
+
+### 🧑‍💼 Work Experience Highlights
+
+- Built and maintained web applications using **Laravel & React.js**
+- Developed scalable platforms using **Next.js & TailwindCSS**
+- Optimized databases (MySQL, Supabase) for performance
+- Collaborated in Agile teams (Scrum, Kanban)
+- Delivered real-world solutions for **LFE Group, Batisync, Is-tech**
 
 ---
 
@@ -76,11 +85,12 @@ interactive frontends.
 
 ---
 
-### 🤝 Let’s Work Together
+### 🤝 Let’s Connect
 
 💼 Looking for:
 - Full-Stack Developer roles
-- Laravel / Vue.js projects
+- Laravel / React / Next.js projects
 - Remote or On-site opportunities
 
-📩 Feel free to reach out via email or LinkedIn!
+🌐 Portfolio: https://yassinebenhamzah.com  
+🔗 LinkedIn: https://www.linkedin.com/in/yassine-benhamzah/
