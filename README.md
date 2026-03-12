@@ -1,20 +1,17 @@
-<div align="text-center">
+<div align="center">
 
-```
-██╗   ██╗ █████╗ ███████╗███████╗██╗███╗   ██╗███████╗
-╚██╗ ██╔╝██╔══██╗██╔════╝██╔════╝██║████╗  ██║██╔════╝
- ╚████╔╝ ███████║███████╗███████╗██║██╔██╗ ██║█████╗  
-  ╚██╔╝  ██╔══██║╚════██║╚════██║██║██║╚██╗██║██╔══╝  
-   ██║   ██║  ██║███████║███████║██║██║ ╚████║███████╗
-   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yassine+Benhamzah;Full+Stack+Developer;Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+DevOps" alt="Typing SVG" />
+
+<br/>
 
 ### Full Stack Developer · Laravel · React · Next.js · DevOps
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yassinebenhamzah.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://yassinebenhamzah.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-benhamzah/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine.benhamzah00@gmail.com)
-[![Location](https://img.shields.io/badge/Casablanca-Morocco-green?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Casablanca,Morocco)
+[![Location](https://img.shields.io/badge/Casablanca-Morocco-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Casablanca,Morocco)
 
 </div>
 
@@ -50,6 +47,12 @@ focus:
   "tools":     ["Git", "Stripe", "Axios", "REST APIs", "Agile/Scrum"]
 }
 ```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,typescript,php,tailwind,docker,aws,mysql,postgres,mongodb,git,vercel&perline=7" />
+
+</div>
 
 ---
 
@@ -101,9 +104,11 @@ focus:
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yassinebenhamzah&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinebenhamzah&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yassinebenhamzah&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinebenhamzah&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 
 </div>
 
